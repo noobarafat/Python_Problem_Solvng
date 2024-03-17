@@ -17,4 +17,4 @@ def isAdult():
         print("Less than 10")
 
 x = int(input("Enter a number: "))
-isAdult()1
+isAdult()
